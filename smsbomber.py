@@ -41,7 +41,7 @@ if Elite == 1:
               print("Successfully sended", number)
 elif Elite == 3:
     os.system("clear")
-    os.system("figlet PersianElite ")
+    os.system("figlet Amir ")
 elif Elite == 2:
     os.system("clear")
     os.system("pip install speedtest-cli")
